@@ -1,2 +1,2 @@
-# Top-Down-Object-Detection-TOD-
+# Top-Down-Object-Detection
 Projekt Forschungsseminar MI WS 2022/23
