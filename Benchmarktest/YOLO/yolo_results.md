@@ -1,0 +1,13 @@
+- bottle  
+  - side: 1 bottle, 1 dining table
+  - top: 1 person, 1 frisbee
+- laptop:
+  - side: 1 dining table, 1 laptop, 1 keyboard
+  - top: 1 laptop, 1 keyboard
+- mug:
+  - sid: 1 cup, 1 dining table
+  - top: 1 cup
+- staple:
+  - front: 1 remote, 1 cell phone
+  - side: 1 mouse
+  - top: 1 cell phone
