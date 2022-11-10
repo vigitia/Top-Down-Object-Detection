@@ -5,9 +5,17 @@
   - side: 1 dining table, 1 laptop, 1 keyboard
   - top: 1 laptop, 1 keyboard
 - mug:
-  - sid: 1 cup, 1 dining table
+  - side: 1 cup, 1 dining table
   - top: 1 cup
 - staple:
   - front: 1 remote, 1 cell phone
   - side: 1 mouse
   - top: 1 cell phone
+- desk: 
+  - side: 1 bottle, 1 cup, 1 tv, 1 laptop, 1 mouse, 1 remote, 1 keyboard
+  - top: 1 cup, 1 chair, 1 tv, 1 laptop, 1 remote, 1 scissors
+- scissor: 
+  - uncoverd: 1 knife, 1 scissors
+  - coverd: 1 person, 1 knife, 1 scissors
+- mouse:
+  - top: 1 suitcase, 1 mouse
