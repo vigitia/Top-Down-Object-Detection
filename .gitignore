@@ -4,3 +4,4 @@ DataCollection
 env
 models
 finetune_efficientdet
+data
