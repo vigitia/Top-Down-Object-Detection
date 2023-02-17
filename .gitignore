@@ -5,3 +5,4 @@ env
 models
 finetune_efficientdet
 data
+fine-tuned
