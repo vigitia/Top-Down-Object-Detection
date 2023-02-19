@@ -25,7 +25,8 @@ def yolo_to_xml_bbox(bbox, w, h):
     return [xmin, ymin, xmax, ymax]
 
 
-classes = ["bottle", "bowl", "cup"]
+classes = ["cup", "bowl", "bottle", "plate", "pen", "book", "stapler",
+           "hole_puncher", "flash_drive", "smartphone"]
 input_dir = "annotations/"
 output_dir = "labels/"
 image_dir = "images/"
