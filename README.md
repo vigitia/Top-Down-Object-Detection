@@ -1,9 +1,12 @@
 # A Matter of Perspective: Top-Down Object Detection for Interactive Tables
 
 
-## About
+## Abstract
 
-TBA
+While interactive tabletops have been used in a variety of applications, their high cost and fragile nature have limited their use. Projected augmented reality provides a flexible and cost-effective solution to traditional interactive tabletops. However, accurately locating and identifying objects on the table remains a challenge. To address this issue, we present a new dataset of everyday objects captured from a top-down perspective, as well as object detection models using convolutional neural networks to accurately detect objects from a top-down perspective on interactive tabletops. We demonstrate that the models can accurately locate and identify objects with a mean average precision up to 99.5\,\%. This work provides a valuable resource for the object detection community and offers a promising solution to the limitations of traditional interactive tabletops. 
+
+## File Structure
+
 
 ## Contributors
 
