@@ -1,5 +1,7 @@
 # A Matter of Perspective: Top-Down Object Detection for Interactive Tables
 
+![Figure1](https://user-images.githubusercontent.com/12990702/227887374-dee56891-296f-4846-9ed2-60019e0d662e.jpg)
+
 
 ## Abstract
 
