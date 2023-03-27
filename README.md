@@ -15,6 +15,9 @@ While interactive tabletops have been used in a variety of applications, their h
     ├── 04-Analysis                       # EfficientDet analysis files
     ├── LICENSE
     └── README.md
+    
+## Meeting-Logs
+Eine Übersicht über den Verlauf des Projektes inklusive Meetings kann [hier](https://github.com/vigitia/Top-Down-Object-Detection/wiki/Meeting-Logs) eingesehen werden.
 
 ## Contributors
 
