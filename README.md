@@ -17,7 +17,14 @@ While interactive tabletops have been used in a variety of applications, their h
     └── README.md
     
 ## Meeting-Logs
-Eine Übersicht über den Verlauf des Projektes inklusive Meetings kann [hier](https://github.com/vigitia/Top-Down-Object-Detection/wiki/Meeting-Logs) eingesehen werden.
+An overview of the project's progress, including meetings, can be viewed [here](https://github.com/vigitia/Top-Down-Object-Detection/wiki/Meeting-Logs).
+
+## Usage
+To make use of the existing files, one can easily adjust the configuration.
+At the top of each notebook, there is a section with `Settings`. Here one can update the variables to point to the desired storing location.
+
+### One note about the [image capturing process](https://github.com/vigitia/Top-Down-Object-Detection/blob/main/01-Image-Capturing-Annotating/01_capture_images_annotation.ipynb):
+If you wish to add objects to the existing list, please add these at the end, since the index of the objects is used to map these to the corresponding labels in a later step.
 
 ## Contributors
 
