@@ -7,6 +7,14 @@ While interactive tabletops have been used in a variety of applications, their h
 
 ## File Structure
 
+    .
+    ├── 00-Initial-Exploration            # Testing of different SOTA models
+    ├── 01-Image-Capturing-Annotating     # Image capture and annotation files
+    ├── 02-Image-Augmentation             # Data splitting files
+    ├── 03-Model-Training                 # Model training files (EfficientDet and YOLO)
+    ├── 04-Analysis                       # EfficientDet analysis files
+    ├── LICENSE
+    └── README.md
 
 ## Contributors
 
